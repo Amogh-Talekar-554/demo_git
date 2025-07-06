@@ -3,7 +3,7 @@ import React from 'react'
 const server = () => {
   return (
     <div>
-        <h2>this is new server </h2>
+        <h2>this is server </h2>
       
     </div>
   )
