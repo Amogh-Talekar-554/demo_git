@@ -7,6 +7,7 @@ const index = () => {
         <h3>hhhiii</h3>
       
       <h1>i am doing practice</h1>
+      <h1>working on git commited and pushed changes</h1>
     </div>
   )
 }
